@@ -1,6 +1,6 @@
 {
 	"info": {
-		"_postman_id": "86701465-09fb-46d5-a57d-5e6e4fa53598",
+		"_postman_id": "4b31e0fb-ca98-44dd-b59c-48e822c2d099",
 		"name": "laravel-sanctum-api",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
 	},
@@ -227,7 +227,7 @@
 					"bearer": [
 						{
 							"key": "token",
-							"value": "1|eq5cDWPjt6rPZ6OYuGckaZp3xb8CsznXYg3G3WZU",
+							"value": "2|TPBQSRoOq0hR4uZXsfISpToBxPrNDKAtpmm5mBgC",
 							"type": "string"
 						}
 					]
@@ -245,17 +245,17 @@
 					"urlencoded": [
 						{
 							"key": "name",
-							"value": "Prodotto nuovo auth",
+							"value": "Huawei P20",
 							"type": "text"
 						},
 						{
 							"key": "slug",
-							"value": "prodottonuovo",
+							"value": "huawei-p20",
 							"type": "text"
 						},
 						{
 							"key": "price",
-							"value": "150.50",
+							"value": "229.99",
 							"type": "text"
 						},
 						{
