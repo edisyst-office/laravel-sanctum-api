@@ -2,6 +2,10 @@
 
 This is an example of a REST API using auth tokens with Laravel Sanctum
 
+## See also
+- Video: https://www.youtube.com/watch?v=MT-GJQIY3EU
+- SQLITE program: https://sqlitebrowser.org/dl/#windows
+
 ## Usage
 
 Change the *.env.example* to *.env* and add your database info
